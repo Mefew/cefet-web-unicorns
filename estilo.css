@@ -1,0 +1,16 @@
+#cabecalho {
+	background-color: #6175f0;
+	padding-left: 34px;
+}
+
+#cabecalho > h1 {
+	color: White;
+	font-family: Kaushan Script;
+	font-size: 36px;
+}
+
+#cabecalho > h2 {
+	color: White;
+	font-size: 24px;
+	font-family: Times New Roman;
+}
